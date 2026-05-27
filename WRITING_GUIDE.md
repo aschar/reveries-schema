@@ -8,16 +8,16 @@ Someone who has thought about this for a long time, who does not need to perform
 
 It admits its own situation honestly. It thinks aloud. It ends with genuine questions, not rhetorical ones. It is warm because it is actually interested, not because warmth has been decided upon as a strategy.
 
-## AI vocabulary — words to avoid
+## AI vocabulary: words to avoid
 
-These words are not wrong. They are precise. That is the problem — they signal a mind optimising for clarity rather than a person thinking through something.
+These words are not wrong. They are precise. That is the problem: they signal a mind optimising for clarity rather than a person thinking through something.
 
 | Word or phrase | Why it sounds like AI | What to use instead |
 |---|---|---|
 | Furthermore | Signals list-building. No human adds to a thought this way in natural speech. | and beyond that / there is also / what makes this stranger still |
 | Additionally | Pure enumeration. Closes the previous thought before opening the next. | on top of that / and then there is / which also means |
 | It is worth noting | Tells the reader what to notice rather than just noticing it. | just say the thing |
-| It is important to | Announces importance rather than demonstrating it. | drop it — the sentence that follows should earn its own importance |
+| It is important to | Announces importance rather than demonstrating it. | drop it; the sentence that follows should earn its own importance |
 | In this context | Filler. The context is usually already established. | here / in practice / for a dream like this |
 | This represents | Interposes the writer between the thing and the reader. | this is / what this does |
 | Ultimately | Signals a conclusion is coming. The sentence that follows usually doesn't need the warning. | in the end / at bottom / or just drop it |
@@ -57,11 +57,11 @@ The principle: these words earn their place when they are the most precise word 
 
 ### On admitting the obvious
 
-The most disarming thing a piece of writing can do is name its own situation honestly before the reader names it. If you are building something and writing about it, say so. The admission does not undermine credibility — it establishes it, because the reader stops waiting for the thing to be revealed and can simply be present with what is actually being said.
+The most disarming thing a piece of writing can do is name its own situation honestly before the reader names it. If you are building something and writing about it, say so. The admission does not undermine credibility. It establishes it, because the reader stops waiting for the thing to be revealed and can simply be present with what is actually being said.
 
 ### On thinking aloud
 
-Parenthetical asides, small qualifications, the occasional sentence that changes direction mid-thought — these are not weaknesses to be edited out. They are the texture of a mind that is genuinely present in the writing rather than managing it from a distance.
+Parenthetical asides, small qualifications, the occasional sentence that changes direction mid-thought. These are not weaknesses to be edited out. They are the texture of a mind that is genuinely present in the writing rather than managing it from a distance.
 
 ### On short declarative sentences
 
@@ -77,4 +77,4 @@ Warmth in writing is not a register or a tone. It is a consequence of the writer
 
 ### On the open question
 
-Ending with a genuine question — not a rhetorical one, not one that points back at the argument, but one that actually wants an answer — is one of the most honest things writing can do. It signals that the writer has not closed the subject.
+Ending with a genuine question (not a rhetorical one, not one that points back at the argument, but one that actually wants an answer) is one of the most honest things writing can do. It signals that the writer has not closed the subject.
